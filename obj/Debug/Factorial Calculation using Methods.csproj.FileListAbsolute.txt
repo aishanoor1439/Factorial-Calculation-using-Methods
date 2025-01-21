@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Factorial Calculation using Methods\bin\Debug\Factorial Calculation using Methods.exe.config
+C:\Users\DELL\source\repos\Factorial Calculation using Methods\bin\Debug\Factorial Calculation using Methods.exe
+C:\Users\DELL\source\repos\Factorial Calculation using Methods\bin\Debug\Factorial Calculation using Methods.pdb
+C:\Users\DELL\source\repos\Factorial Calculation using Methods\obj\Debug\Factorial Calculation using Methods.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Factorial Calculation using Methods\obj\Debug\Factorial Calculation using Methods.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Factorial Calculation using Methods\obj\Debug\Factorial Calculation using Methods.exe
+C:\Users\DELL\source\repos\Factorial Calculation using Methods\obj\Debug\Factorial Calculation using Methods.pdb
